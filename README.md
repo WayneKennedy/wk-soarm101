@@ -1,5 +1,11 @@
 # wk-soarm101 🦾
 
+> **Archived 2026-09-13 — this project moved to
+> [wk-robotics `projects/soarm101/`](https://github.com/WayneKennedy/wk-robotics/tree/main/projects/soarm101).**
+> The history was carried over with `git subtree`; everything below is the last state
+> before the move and is no longer updated. Deep links into this repo still resolve, but
+> the live files are at the new path.
+
 **A 12 V SO-101 follower arm, built from the upstream design.** The Standard Open Arm by
 The Robot Studio and Hugging Face, printed and commissioned here, with nothing changed
 in the design. This repo is the build record; the design lives upstream.
